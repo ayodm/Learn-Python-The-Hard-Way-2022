@@ -12,7 +12,7 @@ print(f"So, you're {age} old, {height} tall and {weight} heavy.")
 
 #script, filename = sys.argv
 """
-The code on line 11 can also be completely commented out and a value 
+The code on line 13 can also be completely commented out and a value 
 can be assigned to the variable being passed through the function. 
 
 """
